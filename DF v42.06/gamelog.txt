@@ -1,0 +1,7 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 5255555
+ Seed: 5JsqZE2EcQl5xXtJDMbu
+ History Seed: HyoTkiVQSj5oNOFchfnS
+ Name Seed: bPoVTQRVJUz0kFrpTDlQ
+ Creature Seed: ep8QakGq4gkdKDEwOptK
+** Starting New Outpost **
