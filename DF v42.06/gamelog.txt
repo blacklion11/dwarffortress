@@ -278,3 +278,245 @@ The great horned owl corpse attacks the stray yak cow but She jumps away!
 The great horned owl corpse misses the stray yak cow!
 The great horned owl corpse attacks the stray yak cow but She jumps away!
 The great horned owl corpse misses the stray yak cow!
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3255555
+ Seed: zngCjI0WIAVDFJvLJifa
+ History Seed: V0AtGwZSw91G5i7ULV90
+ Name Seed: FV6f9oT9tEvy2fRllH5q
+ Creature Seed: Olyi2oe6MmCf4rqcK91k
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+The stray dog scratches the worm man in the right lower arm, lightly tapping the target!
+The stray dog misses the worm man!
+Worm Man: Has the tide turned?  I am not scared!
+The stray dog attacks the worm man but It jumps away!
+Worm Man: Help!  Save me!
+Shem Omristärith, Woodcutter cancels Fell Tree: Interrupted by a worm man.
+Worm Man: Help!  Save me!
+Worm Man: I must withdraw!
+The expedition leader attacks the worm man but It jumps away!
+Worm Man: I must withdraw!
+The expedition leader attacks the worm man but It jumps away!
+The worm man attacks the expedition leader but She jumps away!
+The expedition leader attacks the worm man but It jumps away!
+Worm Man: I must withdraw!
+The expedition leader misses the worm man!
+Worm Man: Help!  Save me!
+You have struck lignite!
+You have struck microcline!
+The stray dog misses the worm man!
+Edâm Onshenlikot, Jeweler cancels Dig: Interrupted by a worm man.
+Zulban StÉkudnicat, Miner cancels Dig: Interrupted by a worm man.
+Worm Man: Stop!  This isn't happening!
+The stray dog scratches the worm man in the right lower arm, denting the skin!
+Worm Man: Help!  Save me!
+The stray dog attacks the worm man but It jumps away!
+The stray dog misses the worm man!
+Worm Man: Help!  Save me!
+The stray dog attacks the worm man but It jumps away!
+The expedition leader misses the worm man!
+The stray dog attacks the worm man but It jumps away!
+The expedition leader attacks the worm man but It jumps away!
+The miner strikes the worm man in the upper body with his (copper pick), tearing the muscle!
+An artery has been opened by the attack!
+The expedition leader attacks the worm man but It jumps away!
+The stray dog scratches the worm man in the head, denting the skin and bruising the muscle and bruising the brain!
+Zulban StÉkudnicat, Miner: Death is all around us.  The horror...
+Sazir Uristamud, expedition leader: Death is all around us.  This is truly horrifying.
+Sazir Uristamud, expedition leader: How fleeting life is...  Begone fear!
+Zulban StÉkudnicat, Miner: Gruesome wounds!  Begone fear!
+The miner stands up.
+Zulban StÉkudnicat, Miner: I had a bath.  I'm very content.
+You have struck limonite!
+Edâm Onshenlikot has become a Miner.
+Shem Omristärith has become a Herbalist.
+The stray dog attacks the giant alligator but She jumps away!
+The stray dog misses the giant alligator!
+The stray dog scratches the giant alligator in the right front foot, bruising the fat!
+Shem Omristärith, Herbalist cancels Drink: Interrupted by a giant alligator.
+The stray dog attacks the giant alligator but She jumps away!
+The stray dog scratches the giant alligator in the left front foot, bruising the fat!
+The stray dog misses the giant alligator!
+The stray dog stands up.
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist attacks the giant alligator but She jumps away!
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist punches the giant alligator in the left front foot with her left hand, bruising the muscle!
+The herbalist punches the giant alligator in the right front foot with her right hand, bruising the fat!
+The giant alligator misses the herbalist!
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist attacks the giant alligator but She jumps away!
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist attacks the giant alligator but She jumps away!
+The fish cleaner punches the giant alligator in the left rear foot with his right hand, bruising the fat!
+The giant alligator misses the fish cleaner!
+The giant alligator attacks the fish cleaner but He jumps away!
+The herbalist misses the giant alligator!
+The giant alligator bites the herbalist in the upper body, tearing the muscle and shattering the middle spine's bone through the (naked mole dog leather robe)!
+An artery has been opened by the attack!
+The herbalist gives in to pain.
+The herbalist falls over.
+The giant alligator misses the fish cleaner!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator bites the fish cleaner in the right lower leg, tearing apart the fat through the (emu leather robe)!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator bites the fish cleaner in the right upper arm, tearing apart the fat through the (emu leather robe)!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator attacks the fish cleaner but He jumps away!
+The giant alligator bites the stray dog in the lower body, tearing apart the fat!
+The stray dog misses the giant alligator!
+The giant alligator attacks the stray dog but She jumps away!
+The fish cleaner punches the giant alligator in the right rear foot with his left hand, bruising the muscle!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator misses the fish cleaner!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator misses the fish cleaner!
+The fish cleaner attacks the giant alligator but She jumps away!
+The stray dog scratches the giant alligator in the head, denting the scale and bruising the fat!
+The giant alligator bites the stray dog in the lower body, tearing apart the muscle and shattering the lower spine's bone!
+A tendon in the lower spine has been torn!
+The stray dog gives in to pain.
+The stray dog falls over.
+The giant alligator misses the fish cleaner!
+The fish cleaner misses the giant alligator!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator bites the fish cleaner in the right hand, tearing apart the fat through the (pig tail right glove)!
+The giant alligator attacks the fish cleaner but He jumps away!
+The giant alligator charges at the fish cleaner!
+The giant alligator collides with the fish cleaner!
+The fish cleaner is knocked over and tumbles backward!
+The fish cleaner stands up.
+The fish cleaner misses the giant alligator!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner misses the giant alligator!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner attacks the giant alligator but She jumps away!
+The herbalist regains consciousness.
+The herbalist gives in to pain.
+The giant alligator bites the fish cleaner in the left foot, tearing apart the fat through the (giant olm leather shoe)!
+The fish cleaner attacks the giant alligator but She jumps away!
+The giant alligator attacks the fish cleaner but He jumps away!
+The fish cleaner misses the giant alligator!
+The giant alligator bites the fish cleaner in the upper body, tearing apart the fat through the (emu leather robe)!
+The fish cleaner gives in to pain.
+The fish cleaner falls over.
+The stray dog regains consciousness.
+The stray dog gives in to pain.
+The fish cleaner regains consciousness.
+The fish cleaner stands up.
+The fish cleaner misses the giant alligator!
+The giant alligator bites the fish cleaner in the left upper leg, lightly tapping the target!
+The fish cleaner misses the giant alligator!
+The giant alligator bites the fish cleaner in the lower body, tearing apart the fat through the (emu leather robe)!
+The fish cleaner has become enraged!
+The fish cleaner misses the giant alligator!
+The fish cleaner loses hold of the (giant olm leather shoe).
+The fish cleaner loses hold of the (pig tail sock).
+The giant alligator bites the fish cleaner in the left upper leg and the severed part sails off in an arc!
+The fish cleaner falls over.
+The fish cleaner punches the giant alligator in the upper body with his right hand, bruising the fat!
+Nish Mishimärith, Fish Cleaner: I've been injured badly.  This leaves me so shaken.
+The fish cleaner is no longer stunned.
+The stray dog regains consciousness.
+The stray dog gives in to pain.
+Nish Mishimärith, Fish Cleaner is no longer enraged.
+The stray dog regains consciousness.
+The stray dog gives in to pain.
+The giant alligator attacks the stoneworker but He jumps away!
+Nish Mishimärith, Fish Cleaner: I cannot just stand by.  I will take revenge!
+The giant alligator attacks the stoneworker but He jumps away!
+The stoneworker punches the giant alligator in the right rear leg with his left hand, bruising the muscle!
+The giant alligator bites the stoneworker in the lower body, tearing the muscle and bruising the guts through the (cave spider silk robe)!
+An artery has been opened by the attack!
+The stoneworker looks sick!
+The stoneworker punches the giant alligator in the upper body with his left hand, bruising the fat!
+The giant alligator attacks the stoneworker but He jumps away!
+The stoneworker misses the giant alligator!
+The giant alligator bites the stoneworker in the head, tearing apart the fat through the (cat leather cap)!
+The stoneworker vomits.
+Rigïth AlÜththak, Stoneworker: Gruesome wounds!  Begone fear!
+The stoneworker attacks the giant alligator but She jumps away!
+The stoneworker retches.
+The stoneworker misses the giant alligator!
+The giant alligator bites the stoneworker in the right upper arm, tearing apart the muscle through the (cave spider silk robe)!
+Many nerves have been severed!
+The giant alligator bites the stoneworker in the left upper arm, tearing apart the muscle through the (cave spider silk robe)!
+Many nerves have been severed!
+The stoneworker attacks the giant alligator but She jumps away!
+The stoneworker retches.
+The giant alligator bites the stoneworker in the right upper arm, tearing apart the fat through the (cave spider silk robe)!
+The stoneworker misses the giant alligator!
+The giant alligator attacks the stoneworker but He jumps away!
+The giant alligator charges at the stoneworker!
+The giant alligator collides with the stoneworker!
+The stoneworker is knocked over and tumbles backward!
+The stoneworker stands up.
+The stoneworker misses the giant alligator!
+The stoneworker loses hold of the (pig tail right glove).
+The giant alligator bites the stoneworker in the right lower arm and the severed part sails off in an arc!
+The stoneworker misses the giant alligator!
+The giant alligator bites the stoneworker in the right lower leg, tearing apart the muscle and bruising the bone through the (cave spider silk robe)!
+A sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The stoneworker falls over.
+The stoneworker vomits.
+The stoneworker is no longer stunned.
+The stoneworker vomits.
+The stoneworker retches.
+Shem Omristärith, Herbalist cancels Clean Self: Interrupted by a giant alligator.
+The giant alligator bites the herbalist in the lower body, lightly tapping the target!
+The herbalist misses the giant alligator!
+The herbalist attacks the giant alligator but She jumps away!
+Shem Omristärith, Herbalist: I've been wounded.  No, that's not annoying.
+Nish Mishimärith, Fish Cleaner: I cannot just stand by.  I will take revenge!
+The herbalist is no longer stunned.
+The stoneworker vomits.
+The herbalist attacks the giant alligator but She jumps away!
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist attacks the giant alligator but She jumps away!
+The giant alligator bites the herbalist in the upper body, tearing apart the fat through the (naked mole dog leather robe)!
+The herbalist gives in to pain.
+The herbalist falls over.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The stray dog regains consciousness.
+The stray dog gives in to pain.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The herbalist regains consciousness.
+The herbalist stands up.
+The stoneworker vomits.
+The stoneworker retches.
+The herbalist is no longer stunned.
+Shem Omristärith, Herbalist cancels Gather Plants: Interrupted by a giant alligator.
+The giant alligator bites the herbalist in the lower body, lightly tapping the target!
+The herbalist punches the giant alligator in the right front leg with her right hand, bruising the muscle!
+The giant alligator misses the herbalist!
+The herbalist punches the giant alligator in the right front leg with her left hand, bruising the muscle!
+Rigïth AlÜththak, Stoneworker: I cannot just stand by.  I will take revenge!
+The giant alligator attacks the herbalist but She jumps away!
+The herbalist attacks the giant alligator but She jumps away!
+The giant alligator bites the herbalist in the left upper leg, tearing apart the muscle and bruising the bone through the (naked mole dog leather robe)!
+A sensory nerve has been severed and a tendon has been torn!
+The herbalist falls over.
+The stoneworker vomits.
+Shem Omristärith, Herbalist: I've been injured badly.  I feel hopeless.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
+The stoneworker vomits.
+The stoneworker retches.
