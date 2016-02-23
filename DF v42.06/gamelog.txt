@@ -5,3 +5,276 @@ Generating world using parameter set CREATE WORLD NOW = 5255555
  Name Seed: bPoVTQRVJUz0kFrpTDlQ
  Creature Seed: ep8QakGq4gkdKDEwOptK
 ** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Al†th Likotmemad, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Inod Cogstigaz, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Al†th Likotmemad, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+You have struck hematite!
+There is nothing to catch in the southeastern swamps.
+You have struck sardonyx!
+The hunter punches the peregrine falcon corpse in the head with her left hand and the injured part collapses!
+The peregrine falcon corpse is propelled away by the force of the blow!
+The peregrine falcon corpse's neck skids along the ground and the part collapses!
+The peregrine falcon corpse slams into an obstacle!
+There is nothing to catch in the northern swamps.
+You have struck microcline!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the lower body, denting the skin and bruising the muscle and bruising the guts!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The stray war dog scratches the great horned owl corpse in the right upper leg, tearing the fat and bruising the bone!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the head, tearing the fat and bruising the muscle!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the right upper leg, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the skin and bruising the muscle!
+The stray war dog charges at the great horned owl corpse!
+The stray war dog collides with the great horned owl corpse!
+The great horned owl corpse is knocked over and tumbles backward!
+The great horned owl corpse stands up.
+The stray war dog scratches the great horned owl corpse in the head, tearing the fat and bruising the muscle!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the upper body, tearing the fat and bruising the muscle and bruising the gizzard!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the right wing, tearing the fat and bruising the muscle!
+The stray war dog scratches the great horned owl corpse in the left foot, denting the skin and bruising the muscle!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse snatches at the stray war dog in the left rear paw with his first toe, right foot, tearing the skin!
+The great horned owl corpse charges at the hunter!
+The great horned owl corpse collides with the hunter!
+The great horned owl corpse is knocked over!
+The stray war dog stands up.
+The great horned owl corpse misses the hunter!
+The great horned owl corpse stands up.
+Kel Borushrakust, Hunter: I was attacked by the dead.  The horror...
+Kel Borushrakust, Hunter: Has the tide turned?  I feel no terror.
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse attacks the stray war dog but She jumps away!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse leaps at the stray war dog!
+The great horned owl corpse collides with the stray war dog!
+The great horned owl corpse is knocked over!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse attacks the stray war dog but She jumps away!
+The great horned owl corpse stands up.
+The stray war dog stands up.
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse attacks the stray war dog but She rolls away!
+The stray war dog stands up.
+The great horned owl corpse charges at the stray war dog!
+The great horned owl corpse collides with the stray war dog!
+The great horned owl corpse is knocked over and tumbles backward!
+The great horned owl corpse stands up.
+The great horned owl corpse snatches at the stray war dog in the left front paw with his first toe, left foot, tearing the skin!
+The hunter stands up.
+The great horned owl corpse misses the hunter!
+The hunter punches the great horned owl corpse in the right lower leg with her left hand, bruising the muscle!
+The great horned owl corpse snatches at the hunter in the right lower leg with his first toe, right foot, bruising the muscle through the (alpaca wool robe)!
+The hunter charges at the great horned owl corpse!
+The hunter collides with the great horned owl corpse!
+The great horned owl corpse is knocked over and tumbles backward!
+The great horned owl corpse stands up.
+The hunter stands up.
+The hunter punches the great horned owl corpse in the head with her right hand, bruising the skin!
+The great horned owl corpse misses the hunter!
+The great horned owl corpse attacks the hunter but She jumps away!
+The hunter kicks the great horned owl corpse in the right wing with her right foot and the injured part is smashed into the body, an unrecognizable mass!
+The great horned owl corpse snatches at the hunter in the left upper leg with his first toe, left foot, bruising the skin through the (pig tail cloak)!
+The hunter punches the great horned owl corpse in the lower body with her right hand, bruising the muscle and bruising the guts!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the lower body, tearing the fat and bruising the muscle and bruising the pancreas!
+The stray war dog charges at the great horned owl corpse!
+The stray war dog collides with the great horned owl corpse!
+The great horned owl corpse is knocked over and tumbles backward!
+The great horned owl corpse stands up.
+The stray war dog scratches the great horned owl corpse in the head, denting the skin and bruising the muscle!
+The hunter scratches the great horned owl corpse in the left foot and the severed part sails off in an arc!
+The great horned owl corpse falls over.
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the hunter!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse misses the hunter!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse snatches at the hunter in the left hand with his first toe, right foot, bruising the skin through the (pig tail left mitten)!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse misses the hunter!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse snatches at the hunter in the left foot with his first toe, right foot, bruising the muscle through the (pig tail shoe)!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse misses the hunter!
+The great horned owl corpse snatches at the hunter in the left upper leg with his first toe, right foot, bruising the skin through the (pig tail cloak)!
+The great horned owl corpse snatches at the hunter in the right upper arm with his first toe, right foot, bruising the muscle through the (pig tail cloak)!
+The great horned owl corpse attacks the hunter but She jumps away!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse attacks the stray war dog but He jumps away!
+The great horned owl corpse misses the stray war dog!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog has been stunned!
+The great horned owl corpse snatches at the stray war dog in the right rear paw with his first toe, right foot, tearing the fat!
+The stray war dog is no longer stunned.
+The great horned owl corpse misses the hunter!
+The great horned owl corpse snatches at the stray war dog in the tail with his first toe, right foot, tearing the fat and bruising the muscle!
+The great horned owl corpse bites the stray war dog in the right rear paw, denting the skin and bruising the fat!
+The great horned owl corpse latches on firmly!
+The great horned owl corpse snatches at the stray war dog in the right rear leg with his first toe, right foot, tearing the fat!
+The great horned owl corpse snatches at the stray war dog in the left rear paw with his first toe, right foot, tearing the skin!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The hunter stands up.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog regains consciousness.
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+It has started raining.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog scratches the great horned owl corpse in the right upper leg, fracturing the bone!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog bites the great horned owl corpse in the left upper leg and the injured part is torn apart!
+The stray war dog latches on firmly!
+The great horned owl corpse snatches at the stray war dog in the left rear leg with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog scratches the great horned owl corpse in the right foot and the injured part is torn apart!
+The great horned owl corpse snatches at the stray war dog in the right front leg with his first toe, right foot, tearing the skin!
+The stray war dog bites the great horned owl corpse in the right lower leg, tearing the fat and bruising the muscle!
+The stray war dog latches on firmly!
+The great horned owl corpse snatches at the stray war dog in the left front paw with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog bites the great horned owl corpse in the right upper leg, tearing the fat and bruising the bone!
+The stray war dog latches on firmly!
+The stray war dog scratches the great horned owl corpse in the upper body, tearing the fat and bruising the muscle and bruising the gizzard!
+The great horned owl corpse snatches at the stray war dog in the third right front toe with his first toe, right foot, shattering the nail!
+The great horned owl corpse misses the stray war dog!
+The stray war dog scratches the great horned owl corpse in the right lower leg, tearing the fat and bruising the muscle!
+The stray war dog scratches the great horned owl corpse in the left wing, fracturing the bone!
+The great horned owl corpse misses the stray war dog!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the left front paw with his first toe, right foot, tearing the skin!
+The stray war dog scratches the great horned owl corpse in the right wing, shattering the bone!
+The great horned owl corpse snatches at the stray war dog in the left front paw with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+Kel Borushrakust, Hunter: I must withdraw!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog regains consciousness.
+The stray war dog scratches the great horned owl corpse in the head, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the first left front toe with his first toe, right foot, tearing apart the skin!
+The stray war dog scratches the great horned owl corpse in the right wing, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the right front leg with his first toe, right foot, tearing the fat!
+The stray war dog scratches the great horned owl corpse in the head, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the left front paw with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog bites the great horned owl corpse in the upper body, tearing the muscle and shattering the right true ribs!
+The stray war dog latches on firmly!
+The great horned owl corpse snatches at the stray war dog in the lower body with his first toe, right foot, denting the skin and bruising the muscle!
+The stray war dog scratches the great horned owl corpse in the right wing, tearing the fat and bruising the bone!
+The great horned owl corpse snatches at the stray war dog in the lower body with his first toe, right foot, tearing the fat and bruising the muscle and bruising the guts!
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The stray war dog regains consciousness.
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog regains consciousness.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The stray war dog has been stunned again!
+The stray war dog bites the great horned owl corpse in the right wing, tearing the muscle!
+The stray war dog latches on firmly!
+The great horned owl corpse snatches at the stray war dog in the right front paw with his first toe, right foot, tearing the fat and bruising the muscle!
+The stray war dog scratches the great horned owl corpse in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The great horned owl corpse snatches at the stray war dog in the left rear paw with his first toe, right foot, tearing the fat!
+The stray war dog gives in to pain.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The Stray war Dog (Tame) has been found dead.
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the fat and bruising the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing the muscle!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, tearing apart the muscle!
+An artery has been opened by the attack!
+The great horned owl corpse snatches at the stray war dog in the head with his first toe, right foot, denting the muscle!
+The great horned owl corpse misses the stray yak cow!
+The stray yak cow stands up.
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse snatches at the stray yak cow in the left rear leg with his first toe, right foot, tearing the skin and bruising the muscle!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse snatches at the stray yak cow in the left rear leg with his first toe, right foot, tearing the skin and bruising the muscle!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse snatches at the stray yak cow in the left rear hoof with his first toe, right foot, but the attack glances away!
+The great horned owl corpse snatches at the stray yak cow in the right front hoof with his first toe, right foot, but the attack glances away!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse snatches at the stray yak cow in the left rear hoof with his first toe, right foot, but the attack glances away!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
+The great horned owl corpse attacks the stray yak cow but She jumps away!
+The great horned owl corpse misses the stray yak cow!
